@@ -48,7 +48,7 @@ except:pass
 try:os.remove("oldv2.txt")
 except:pass
 try:
-	os.mkdir('dump')
+	os.mkdir('Jutt')
 except:pass
 try:
 	os.mkdir('result')
@@ -113,7 +113,7 @@ def R():
 				__crack__().plerr()
 			elif key in ["2", "02"]:
 				time.sleep(0.5)
-				os.system('python dump.py')
+				os.system('python Jutt.py')
 			elif key in ["3", "03"]:
 				time.sleep(0.5)
 				dupcutter()
@@ -365,8 +365,8 @@ banner="""\033[1;34m
 \033[1;32m
     
 \033[1;32m ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡
-    Author   ➵ SHAHID BASHIR(ABEERA NEW FRIEND)
-    Facebook ➵ CHAL BE NIKL LY(EXIT)
+    Author   ➵ SHAHID BASHIR
+    Facebook ➵ CHAL BE NIKL LY LOWDE
     Version  ➵ 1.0
  \033[1;92m♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡
  \033[1;32m                   MR SHAHID  \033[1;34m
